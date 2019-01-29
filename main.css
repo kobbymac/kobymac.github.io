@@ -1,0 +1,62 @@
+body{
+	background: url(https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80);
+	background-size: auto;
+	/*height: 100vh;*/
+}
+
+
+h1{ 
+	color: white;
+	text-align: center;
+	border: 2px solid white;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #888888;
+	background-color: #6C7D6D;
+	opacity: 0.8;
+	width: 650px;
+	margin: 50px auto;
+	padding: 10px 15px;
+	font-family: Garamond;
+	font-size: 2em;
+	font-weight: 200;
+	text-transform: uppercase;
+
+}
+
+.btn-mine{
+	color: white;
+	background-color: #6C7D6D;
+	box-shadow: 3px 3px 3px #888888;
+	opacity: 0.8;
+	font-size: 2em;
+	font-weight: 200;
+	font-family: Garamond;
+	padding: 3.2px;
+	border: 1px solid beige;
+	border-radius: 5px;
+	margin: 110px 44%;
+	transition: all 0.5s;
+	text-transform: uppercase;
+	width: 150px;
+}
+
+.btn-mine:hover{
+	background-color: #FF534E;
+	opacity: 0.7;
+	transform: scale(1.1);
+
+}
+
+button{
+	padding: 0px;
+	width: 100px;
+}
+
+/*.navbar-inverse{
+	color: white;
+	background-color: #6C7D6D;
+	box-shadow: 3px 3px 3px #888888;
+	opacity: 0.8;
+	border: 1px solid beige;
+
+}*/
